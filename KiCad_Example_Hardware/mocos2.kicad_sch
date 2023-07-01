@@ -1893,11 +1893,11 @@
     (property "Datasheet" "" (at 144.78 40.64 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3561))
+    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3562))
     (pin "2" (uuid 3f794b5b-a6ce-4673-9d6b-e6233482657e))
     (pin "3" (uuid 3a3753dd-2239-4dce-988e-8c4532d69f4e))
     (pin "4" (uuid 665dc3b5-0388-46e2-951e-ccb492349ab4))
-    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3561))
+    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3562))
     (instances
       (project "KiCad_Example_Hardware"
         (path "/057ba755-8937-4409-8ab9-13aa0923efe4/cb612c24-c619-4e0f-a2d5-3463e3f26eb9"
@@ -2527,11 +2527,11 @@
     (property "Datasheet" "" (at 144.78 97.79 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3562))
+    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3564))
     (pin "2" (uuid 3f794b5b-a6ce-4673-9d6b-e6233482657f))
     (pin "3" (uuid 3a3753dd-2239-4dce-988e-8c4532d69f4f))
     (pin "4" (uuid 665dc3b5-0388-46e2-951e-ccb492349ab5))
-    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3562))
+    (pin "1" (uuid 06e8aac1-ca27-4f2a-a98b-32ea556d3564))
     (instances
       (project "KiCad_Example_Hardware"
         (path "/057ba755-8937-4409-8ab9-13aa0923efe4/cb612c24-c619-4e0f-a2d5-3463e3f26eb9"
@@ -3391,11 +3391,11 @@
     (property "Datasheet" "" (at 147.32 130.81 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a786))
+    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a787))
     (pin "2" (uuid 7e40317c-f039-476d-820e-568003e4c410))
     (pin "3" (uuid 210cf064-3105-43e6-8384-a44165566211))
     (pin "4" (uuid cbd37486-e58c-4425-9c53-b8c5049875b6))
-    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a786))
+    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a787))
     (instances
       (project "KiCad_Example_Hardware"
         (path "/057ba755-8937-4409-8ab9-13aa0923efe4/cb612c24-c619-4e0f-a2d5-3463e3f26eb9"
@@ -3572,11 +3572,11 @@
     (property "Datasheet" "" (at 147.32 73.66 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a784))
+    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a785))
     (pin "2" (uuid 0b21520c-a35b-4771-a2ae-56bcec7bfa0c))
     (pin "3" (uuid 210cf064-3105-43e6-8384-a44165566210))
     (pin "4" (uuid cbd37486-e58c-4425-9c53-b8c5049875b5))
-    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a784))
+    (pin "1" (uuid 10bb8ab5-cec7-4c0e-b794-503aa6c1a785))
     (instances
       (project "KiCad_Example_Hardware"
         (path "/057ba755-8937-4409-8ab9-13aa0923efe4/cb612c24-c619-4e0f-a2d5-3463e3f26eb9"
